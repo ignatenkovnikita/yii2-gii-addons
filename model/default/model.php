@@ -49,7 +49,7 @@ class <?= $className ?> extends <?= '\\' . ltrim($generator->baseClass, '\\') . 
         case 'created_at':
             $behaviors['timestamp'] = '\yii\behaviors\TimestampBehavior::class';
             break;
-        case 'author_id':
+        case 'created_by':
             $behaviors['author']= '\yii\behaviors\BlameableBehavior::class';
             break;
     } ?>
