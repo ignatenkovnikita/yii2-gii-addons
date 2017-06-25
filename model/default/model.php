@@ -49,8 +49,8 @@ class <?= $className ?> extends <?= '\\' . ltrim($generator->baseClass, '\\') . 
         case 'created_at':
             $behaviors['timestamp'] = '\yii\behaviors\TimestampBehavior::class';
             break;
-        case 'site_id':
-            $behaviors['site'] =  '\common\behaviors\SiteBehavior::class';
+        case 'author_id':
+            $behaviors['author']= '\yii\behaviors\BlameableBehavior::class';
             break;
     } ?>
 <?php endforeach; ?>
