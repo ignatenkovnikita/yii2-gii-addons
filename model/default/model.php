@@ -14,10 +14,13 @@
 /* @var $rules string[] list of validation rules */
 /* @var $relations array list of relations (name => relation declaration) */
 
+
 echo "<?php\n";
 ?>
 
 namespace <?= $generator->ns ?>;
+
+use Yii;
 
 /**
  * This is the model class for table "<?= $generator->generateTableName($tableName) ?>".
