@@ -9,7 +9,9 @@ composer require ignatenkovnikita/yii2-gii-addons:dev-master
 
 Configuration, paste code in config
 ```php
-'gii' => [
+'bootstrap' => ['gii'],
+    'modules' => [
+        'gii' => [
             'class' => \yii\gii\Module::class,
             'allowedIPs' => ['*'],
             'generators' => [
@@ -21,5 +23,6 @@ Configuration, paste code in config
                 ]
             ],
         ],
+    ],
 ```
 
