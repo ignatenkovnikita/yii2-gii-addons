@@ -1,7 +1,10 @@
 ### Yii2 Gii Addons
 
 
-[![Latest Stable Version](https://poser.pugx.org/ignatenkovnikita/yii2-gii-addons/v/stable)](https://packagist.org/packages/ignatenkovnikita/yii2-gii-addons) [![Total Downloads](https://poser.pugx.org/ignatenkovnikita/yii2-gii-addons/downloads)](https://packagist.org/packages/ignatenkovnikita/yii2-gii-addons) [![Latest Unstable Version](https://poser.pugx.org/ignatenkovnikita/yii2-gii-addons/v/unstable)](https://packagist.org/packages/ignatenkovnikita/yii2-gii-addons) [![License](https://poser.pugx.org/sevenfloor/yii2-gii-addons/license)](https://packagist.org/packages/ignatenkovnikita/yii2-gii-addons)
+[![Latest Stable Version](https://poser.pugx.org/ignatenkovnikita/yii2-gii-addons/v/stable)](https://packagist.org/packages/ignatenkovnikita/yii2-gii-addons)
+[![Total Downloads](https://poser.pugx.org/ignatenkovnikita/yii2-gii-addons/downloads)](https://packagist.org/packages/ignatenkovnikita/yii2-gii-addons) 
+[![Latest Unstable Version](https://poser.pugx.org/ignatenkovnikita/yii2-gii-addons/v/unstable)](https://packagist.org/packages/ignatenkovnikita/yii2-gii-addons) 
+[![License](https://poser.pugx.org/ignatenkovnikita/yii2-gii-addons/license)](https://packagist.org/packages/ignatenkovnikita/yii2-gii-addons)
 
 
 ## Install
