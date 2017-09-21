@@ -128,7 +128,7 @@ class <?= $className ?> extends <?= '\\' . ltrim($generator->baseClass, '\\') . 
     ?>
     /**
      * @inheritdoc
-     * @return <?= $queryClassFullName ?> the active query used by this AR class.
+     * @return <?= str_replace('\generated', '',$queryClassFullName) ?> the active query used by this AR class.
     */
     public static function find()
     {
